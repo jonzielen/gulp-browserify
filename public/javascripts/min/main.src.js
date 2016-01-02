@@ -1,0 +1,1 @@
+"use strict";!function(){var o="HELLO JON!!!";console.log(o),console.log("poop1111");for(var l=[1,2,3,4,5,6,7,8,9,0],s=0;s<l.length;s++)console.log(l[s]);var n="Jon";console.log("this is a test for, "+n)}();
